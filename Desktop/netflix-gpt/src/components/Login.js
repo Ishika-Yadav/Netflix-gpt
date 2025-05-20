@@ -4,7 +4,14 @@ const Login = () => {
     
     return(
 
-        <h1>logged In</h1>
+        <div>
+
+            <h1>logged In</h1>
+            <h2>successfully looged in </h2>
+            <h2>successfully looged out </h2>
+
+        </div>
+    
     );
 
 }
