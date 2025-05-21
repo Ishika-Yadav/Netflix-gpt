@@ -27,7 +27,7 @@ const Login = () => {
          
                 <form class=" text-white cursor-pointer " >
 
-                    <h1 class=" text-4xl font-bold  m-2">{isSignInForm?"Sign In":"Sign Up"}</h1>
+                    <h1 class=" text-4xl font-bold  m-2 pb-2">{isSignInForm?"Sign In":"Sign Up"}</h1>
 
                     {
                       !isSignInForm && <input class=" bg-gray-800 block border-2 my-4 p-4  w-full rounded-l" 
