@@ -5,6 +5,11 @@
 
 2.installed and configured Tailwindcss
 
+3. build our header 
+
+4. build login form 
+
+5. create a sign up form 
 
 ## Planning feature of website
 > main screen(browser) ( login page) (authenticating page )
@@ -30,6 +35,38 @@
 > my own feature 
   - debouncing
   - dark/light theme
+
+
+## git steps 
+
+step 1 create repo  cloud
+step 2 create folder in local  comp
+step 3  open git bash by selecting folder 
+step 4  git clone https://github.com/Ishika-Yadav/Netflix-gpt.git
+connecting local to cloud
+step 5 git status position if tracked or untracked
+step 6 if untrack we do git add .
+step 7 check status again 
+step 8 git commit -m "message normal"
+step 9 check status again
+step 10 git push origin main 
+
+after changes
+step 1 tracking file git add .
+step 2 git commit -m "second commit login changes"
+step 3 git push origin main
+
+Branching 
+
+
+git branch <name>
+git branch -d <branch>
+
+
+ forking
+
+
+
   
 
 
