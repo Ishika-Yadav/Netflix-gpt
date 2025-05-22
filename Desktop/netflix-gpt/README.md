@@ -2,14 +2,14 @@
 ## Step Followed Till yet
 
 1.created our project using create-react-app
-
 2.installed and configured Tailwindcss
+3.routed our app
+3.build our header 
+4.build login form 
+5.create a sign up form 
+6.form validation
+7. useRef hook
 
-3. build our header 
-
-4. build login form 
-
-5. create a sign up form 
 
 ## Planning feature of website
 > main screen(browser) ( login page) (authenticating page )

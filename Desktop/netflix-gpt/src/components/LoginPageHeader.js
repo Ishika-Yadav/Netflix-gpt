@@ -3,9 +3,9 @@ import React from 'react'
 
 const LoginPageHeader = () => {
   return (
-    <div class="absolute z-10">
+    <div className="absolute z-10">
 
-      <img class="w-46"  
+      <img className="w-46"  
       src={netflixLogo} alt='logo'></img>
       
     </div>
