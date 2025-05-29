@@ -1,14 +1,29 @@
 
 ## Step Followed Till yet
 
-1.created our project using create-react-app
-2.installed and configured Tailwindcss
-3.routed our app
-3.build our header 
-4.build login form 
-5.create a sign up form 
-6.form validation
-7. useRef hook
+1.  created our project using create-react-app
+2.  installed and configured Tailwindcss
+3.  routed our app
+3.  build our header 
+4.  build login form 
+5.  create a sign up form 
+6.  form validation
+7.  useRef hook
+8.  firebase setup
+9.  deploy live deploy app to Production
+10. how to setup your own url
+11. login user/sign user to firbase using sign user API
+12. created Redux store
+13. created actions,reducer,store,provider for user information 
+14. npm install react-icons
+    bugfix - for signp user for profile name and photo
+    bugfix-   if useer is not  logged in redirect user login page 
+unsbscribed to theon authstatechange callback
+note : move haed coded string or url to folder constant.js and use by using name export 
+registr tmdb  API create account get access tocker by navigating to api section
+get code from tmdb documentation for accessing data
+
+
 
 
 ## Planning feature of website

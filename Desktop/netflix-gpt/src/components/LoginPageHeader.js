@@ -1,7 +1,11 @@
 import React from 'react'
  import netflixLogo from '../images/Netflix_Logo.png';
+ import useMaintainUser from './useMaintainUser ';
+ 
 
 const LoginPageHeader = () => {
+ 
+  useMaintainUser();
   return (
     <div className="absolute z-10">
 
