@@ -16,14 +16,21 @@
 12. created Redux store
 13. created actions,reducer,store,provider for user information 
 14. npm install react-icons
-    bugfix - for signp user for profile name and photo
-    bugfix-   if useer is not  logged in redirect user login page 
-unsbscribed to theon authstatechange callback
-note : move haed coded string or url to folder constant.js and use by using name export 
-registr tmdb  API create account get access tocker by navigating to api section
-get code from tmdb documentation for accessing data
-
-
+   - bugfix - for signp user for profile name and photo
+  -  bugfix-   if useer is not  logged in redirect user login page 
+-unsbscribed to then authstatechange callback
+-note : move haed coded string or url to folder constant.js and use by using name export 
+-registr tmdb  API create account get access tocker by navigating to api section
+-get code from tmdb documentation for accessing data
+-created custum hook for now playing movie
+-created a movieSlice
+-updated store with movie data
+-plaing for main and secondary container
+-fetch data for trailer video tmdb api 
+ update store with trailer video data
+ - embedded the youtube vidoe and made it autoplay and mute
+-added tailwind to look awesome
+-build secondary comp
 
 
 ## Planning feature of website

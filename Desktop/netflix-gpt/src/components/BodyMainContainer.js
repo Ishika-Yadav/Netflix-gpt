@@ -21,7 +21,7 @@ const BodyMainContainer = () => {
     //  console.log( original_title);
     //  if(!movie_id) return null;
   return (
-    <div>
+    <div className='w-screen'>
         {/* movie trailer  from Redux store*/}
         {/* how it this working */}
         <TrailerDetail title={original_title} discription={overview}/>
