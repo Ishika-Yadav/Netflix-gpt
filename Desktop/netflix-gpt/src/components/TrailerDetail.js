@@ -9,7 +9,7 @@ const TrailerDetail = ({title,discription}) => {
         <p className='py-6 text-lg w-1/4'>{discription}</p>
         <div className='flex '>
             <button className='mx-2 flex items-center gap-x-3   rounded-md text-black bg-white p-3 px-8 font-bold   hover:bg-opacity-75  '> <FaPlay size={24}/> PLAY</button>
-            <button className=' flex items-center gap-x-3  bg-gray-500 bg-opacity-75 rounded-md  text-black p-3 px-8 font-bold  bg-opacity-75  '><BsInfoCircle size={24} />More Info</button>
+            <button className=' flex items-center gap-x-3  bg-gray-500 bg-opacity-75 rounded-md  text-black p-3 px-8 font-bold  bg-opacity-25 '><BsInfoCircle size={24} />More Info</button>
         </div>
     </div>
   )

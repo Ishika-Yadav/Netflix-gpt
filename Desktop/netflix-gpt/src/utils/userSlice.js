@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-// this is slice of Rdux store  creating and configuring it 
+// this is slice of Rdux store  creating and configuring it  sotre curretn user
 const userSlice = createSlice({
     name: 'user',
     initialState: null,

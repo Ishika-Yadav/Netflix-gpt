@@ -7,3 +7,11 @@ export const API_OPTION = {
 };
 
 export const IMG_CDN_URL="https://image.tmdb.org/t/p/w500";
+
+//  Note this identifier should be same as the lang key in languageConsts.js
+export const SUPPORTED_LANGUAGES = [
+  { identifier: 'en', name: 'English' },
+  { identifier: 'hi', name: 'Hindi' },
+  { identifier: 'es', name: 'Spanish' },
+  { identifier: 'de', name: 'German' }
+];

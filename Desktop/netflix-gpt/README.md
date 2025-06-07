@@ -1,6 +1,82 @@
 
 ## Step Followed Till yet
 
+Created our project using create-react-app
+
+Installed and configured Tailwind CSS
+
+Routed our app
+
+Built our Header
+
+Built Login Form
+
+Created a Sign Up Form
+
+Form validation
+
+Used useRef hook
+
+Firebase setup
+
+Deployed live app to Production
+
+How to set up your own URL
+
+Login/Sign up user to Firebase using Sign Up API
+
+Created Redux store
+
+Created actions, reducer, store, and provider for user information
+
+npm install react-icons
+
+🔧 Bug Fixes
+Bugfix: Signup user now saves profile name and photo
+
+Bugfix: If user is not logged in, redirect to login page
+
+Unsubscribed from onAuthStateChanged callback
+
+📦 Code Organization
+Note: Moved hardcoded strings or URLs to a constant.js file
+
+Used named exports to access constants
+
+🎬 TMDB Integration
+Registered TMDB API, created account, got access token from API section
+
+Got code from TMDB documentation to access data
+
+Created custom hook for Now Playing Movies
+
+Created a movieSlice
+
+Updated store with movie data
+
+Planning for Main and Secondary Container
+
+Fetched data for trailer video from TMDB API
+
+Updated store with trailer video data
+
+Embedded the YouTube video and made it autoplay and mute
+
+🧱 UI & Components
+Added Tailwind to make UI awesome
+
+Built Secondary Component
+
+Built Movie List
+
+Built Movie Card
+
+Used TMDB image CDN URL
+
+Made the Browse page amazing with Tailwind CSS
+
+Used custom hooks to fetch API and dispatch actions
+
 1.  created our project using create-react-app
 2.  installed and configured Tailwindcss
 3.  routed our app
@@ -27,10 +103,17 @@
 -updated store with movie data
 -plaing for main and secondary container
 -fetch data for trailer video tmdb api 
- update store with trailer video data
- - embedded the youtube vidoe and made it autoplay and mute
+ -update store with trailer video data
+- embedded the youtube vidoe and made it autoplay and mute
 -added tailwind to look awesome
 -build secondary comp
+-build movie list
+- build movie card
+-tmdb  img cdn url
+- made the browsre page amazing with tailwind css
+-use custum hooks to make fetch api and dispach action 
+-gpt search feature link
+
 
 
 ## Planning feature of website
